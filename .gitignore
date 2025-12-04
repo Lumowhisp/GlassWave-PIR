@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+.cache/
+.tmp/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS / Editor garbage
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+.history/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated files
+server.pid
+coverage/
+
+# macOS (including M1/M2 system junk)
+.AppleDouble
+.LSOverride
+*.icloud
+*.icloud~
+*.idea/
+.AppleDB
+.AppleDesktop
+.NetworkTrashFolder
